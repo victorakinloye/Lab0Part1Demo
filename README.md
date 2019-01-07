@@ -1,2 +1,2 @@
-# EECS1021-lab-workspace
+# Lab0Part1Demo
 Java projects for EECS1021
