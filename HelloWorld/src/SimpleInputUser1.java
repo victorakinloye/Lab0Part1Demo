@@ -1,7 +1,5 @@
 
-public class SimpleInputUser1 {
 import java.util.*;
-
 public class SimpleUserInput2 {
 
 
